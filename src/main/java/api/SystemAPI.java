@@ -8,6 +8,7 @@ public class SystemAPI {
      * Demonastrate your understanding on System after reading the documentation
      * Show some uses of System Class
      * Explain, what is System.out.println()?
+      // System.out.println()= System is classs variable, out= is the object of the variable and println= is the method of the variable.
      * List all the members of the System class, such as class variable, instance variables, local variables
      * method type etc
      *

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SortingAnArrayUsingArrays {
     public static void main(String[] args) {
-        String[] array = {"Jan", "Mar", "Feb", "apr", "May", "June", "July"};
+        String[] array = {"Jan", "Feb", "Mar", "apr", "May", "June", "July"};
         printArray(array, "Array to be sorted");
         /**
          * Using methods from Arrays class to sort array
